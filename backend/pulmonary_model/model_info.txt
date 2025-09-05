@@ -1,0 +1,12 @@
+Pulmonary Disease Prediction Model
+========================================
+Dataset shape: (5000, 18)
+Features: 17
+Feature names: ['AGE', 'GENDER', 'SMOKING', 'FINGER_DISCOLORATION', 'MENTAL_STRESS', 'EXPOSURE_TO_POLLUTION', 'LONG_TERM_ILLNESS', 'ENERGY_LEVEL', 'IMMUNE_WEAKNESS', 'BREATHING_ISSUE', 'ALCOHOL_CONSUMPTION', 'THROAT_DISCOMFORT', 'OXYGEN_SATURATION', 'CHEST_TIGHTNESS', 'FAMILY_HISTORY', 'SMOKING_FAMILY_HISTORY', 'STRESS_IMMUNE']
+
+Model Performance:
+Accuracy: 0.9050
+Precision: 0.8805
+Recall: 0.8870
+F1-Score: 0.8837
+ROC-AUC: 0.9226
